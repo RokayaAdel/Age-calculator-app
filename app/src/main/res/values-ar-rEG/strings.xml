@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="birth" translatable="false">سنة الميلاد</string>
+    <string name="age">العمر</string>
+    <string name="calc">احسب</string>
+    <string name="app_name">تطبيقى</string>
+</resources>
